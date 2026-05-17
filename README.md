@@ -1,16 +1,34 @@
-## Hi there 👋
+## Merhaba ben Neslihan! 
 
-<!--
-**Neslihan-Ozdemir/Neslihan-Ozdemir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
 
-Here are some ideas to get you started:
+**Bilgisayar Mühendisliği Öğrencisi**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📍 Bursa · 📧 neslihanozdmr.4871@gmail.com · 💼 www.linkedin.com/in/neslihan-özdemirr
+
+</div>
+
+---
+
+Bursa Uludağ Üniversitesi Bilgisayar Mühendisliği 3. sınıf öğrencisiyim. Veri bilimi ve makine öğrenmesi alanında kendimi geliştiriyorum. Öğrendiklerimi projeler üzerinde uygulayarak pekiştirmeye çalışıyorum.
+
+---
+
+## Teknik Beceriler
+
+**Programlama Dilleri**
+- Python
+- C#
+- SQL
+
+
+## İlgi Alanlarım
+
+- Makine Öğrenmesi & Veri Analizi
+- Yapay Zeka
+
+---
+
+<div align="center">
+<sub>Profilimi incelediğiniz için teşekkürler.</sub>
+</div>
