@@ -1,10 +1,10 @@
-## Merhaba ben Neslihan! 
-
 <div align="center">
+  
+## Merhaba ben Neslihan! 
 
 **Bilgisayar Mühendisliği Öğrencisi**
 
-📍 Bursa · 📧 neslihanozdmr.4871@gmail.com · 💼 www.linkedin.com/in/neslihan-özdemirr
+📍 Bursa · 📧 neslihanozdmr.4871@gmail.com · 💼 www.linkedin.com/in/neslihan-özdemirr ✍️https://medium.com/@neslihanozdmr
 
 </div>
 
