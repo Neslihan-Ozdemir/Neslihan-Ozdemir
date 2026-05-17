@@ -16,7 +16,7 @@ Bursa Uludağ Üniversitesi Bilgisayar Mühendisliği 3. sınıf öğrencisiyim.
 
 ## Teknik Beceriler
 
-**Programlama Dilleri**
+** Diller & Teknolojiler **
 - Python
 - C#
 - SQL
