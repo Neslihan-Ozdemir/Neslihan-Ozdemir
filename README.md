@@ -20,6 +20,8 @@ Bursa Uludağ Üniversitesi Bilgisayar Mühendisliği 3. sınıf öğrencisiyim.
 
 - Python
 - C#
+- Java Spring Boot
+- Angular
 - SQL
 
 
