@@ -27,7 +27,7 @@ Bursa Uludağ Üniversitesi Bilgisayar Mühendisliği 3. sınıf öğrencisiyim.
 
 ## İlgi Alanlarım
 
-- Makine Öğrenmesi & Veri Analizi
+- Makine Öğrenmesi & Veri Bilimi
 - Yapay Zeka
 
 ---
